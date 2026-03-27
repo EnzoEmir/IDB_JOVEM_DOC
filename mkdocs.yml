@@ -1,0 +1,51 @@
+site_name: Documentação do Projeto
+site_description: Base inicial da documentação tecnica e organizacional
+site_url: "https://enzoemir.github.io/IDB_JOVEM_DOC/"
+
+repo_url: "https://github.com/EnzoEmir/IDB_JOVEM_DOC"
+repo_name: Repositorio
+
+theme:
+  name: material
+  language: pt-BR
+  logo: imagens/logo.png
+  favicon: imagens/logo.png
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Alternar para tema claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para tema escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Usar preferência do sistema
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - content.code.copy
+
+extra_css:
+  - stylesheets/custom.css
+
+nav:
+  - Inicio: index.md
+  - Projeto:
+      - Backlog: projeto/backlog.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
