@@ -1,5 +1,9 @@
 ## Sumário
 
+- [Introdução](#introducao)
+- [Metodologia](#metodologia)
+- [Participantes](#participantes)
+- [Temas e Épicos](#temasEpicos)
 - [Tema 1 - Experiência do Usuário e Engajamento](#tema1)
 - [Tema 2 - Gestão de Eventos](#tema2)
 - [Tema 3 - Gestão de Voluntários](#tema3)
@@ -7,7 +11,78 @@
 
 ---
 
-## Descrição Geral
+
+<a name="introducao"></a>
+
+## Introdução
+
+O **Product Backlog** é um conjunto estruturado de demandas e funcionalidades que orientam o desenvolvimento do projeto com foco na entrega de valor ao cliente. Esse artefato é dinâmico, permitindo a inclusão, alteração ou remoção de itens conforme surgem novas necessidades ao longo do processo. Dessa forma, ele funciona como um instrumento de planejamento que acompanha a evolução do projeto.
+
+
+<a name="metodologia"></a>
+
+## Metodologia
+
+A elaboração do **Product Backlog** teve início a partir de uma reunião com a cliente, cujo objetivo foi identificar e registrar as funcionalidades esperadas para o website. Com base nas informações coletadas, essas funcionalidades foram traduzidas em Histórias de Usuário, seguindo o formato: "Como um [tipo de usuário], desejo [ação] para [benefício]".
+
+Para cada história, foram estabelecidos critérios de aceitação claros, que servirão como referência tanto para o desenvolvimento quanto para a validação das entregas.
+
+Posteriormente, as histórias foram estruturadas de maneira hierárquica, sendo agrupadas em temas e épicos. Neste documento, adotou-se a organização no formato Tema → Épico → Histórias de Usuário, com o objetivo de facilitar a compreensão e o gerenciamento do backlog ao longo do projeto.
+
+
+<a name="participantes"></a>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Participantes</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>29/03/2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+      <td>29/03/2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>29/03/2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>29/03/2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>29/03/2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>29/03/2026</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p>
+
+
+---
+
+<a name="temasEpicos"></a>
+
+## Temas e Épicos
+
+Com base nos requisitos identificados para o website, foi realizada uma categorização que resultou em quatro grandes temas. Esses temas permitem uma visão mais ampla do sistema, organizando as funcionalidades de acordo com seus principais propósitos.
+
+A partir dessa divisão inicial, os requisitos foram segmentados em épicos, que correspondem a conjuntos maiores de funcionalidades relacionadas. Esses elementos intermediários contribuem para uma melhor estruturação do trabalho, funcionando como uma ligação entre a visão geral do sistema e as implementações mais detalhadas.
+
+Na sequência, são apresentados os temas definidos e seus respectivos épicos.
 
 
 <a name="tema1"></a>
@@ -47,7 +122,7 @@ Focado no ciclo de vida dos eventos, desde a criação até a inscrição e inte
 *Como administrador, quero criar, editar e excluir eventos nacionais, definindo descrição, palestrantes, bandas e galeria de fotos.*
 
 - **E07 - Gestão de Programação**  
-*Como líder, quero cadastrar a programação detalhada (horário, atividade e descrição) de cada evento.*
+*Como administrador, quero cadastrar a programação detalhada (horário, atividade e descrição) de cada evento.*
 
 - **E08 - Inscrição Externa**  
 *Como participante, quero ser redirecionado para o e-inscrição ou Sympla para realizar o pagamento da minha inscrição.*
@@ -67,7 +142,7 @@ Focado no recrutamento, validação e controle da força de trabalho voluntária
 *Como membro, quero preencher um formulário completo (incluindo antecedentes criminais) para me candidatar como voluntário.*
 
 - **E11 - Notificação de Candidatura**  
-*Como responsável pelo evento, quero receber um e-mail automático sempre que houver uma nova candidatura para agilizar a validação.*
+*Como administrador do evento, quero receber um e-mail automático sempre que houver uma nova candidatura para agilizar a validação.*
 
 - **E12 - Armazenamento de Dados**  
 *Como administrador, quero que o sistema armazene os formulários dos voluntários para consultas futuras e histórico.*
@@ -78,7 +153,7 @@ Focado no recrutamento, validação e controle da força de trabalho voluntária
 *Como administrador, quero revisar e aprovar as candidaturas de voluntários para garantir que atendem aos requisitos necessários.*
 
 - **E14 - Contagem de Voluntários por Evento**  
-*Como gestor, quero visualizar quantos voluntários estão inscritos e aprovados por evento para garantir que as equipes estejam completas.*
+*Como administrador, quero visualizar quantos voluntários estão inscritos e aprovados por evento para garantir que as equipes estejam completas.*
 
 <a name="tema4"></a>
 
@@ -89,7 +164,7 @@ Focado na segurança e acessos administrativos.
 ### Épico: Autenticação e Perfis
 
 - **E15 - Login Administrativo**  
-*Como líder, quero realizar login no sistema para acessar as ferramentas de gestão.*
+*Como administrador, quero realizar login no sistema para acessar as ferramentas de gestão.*
 
 - **E16 - Multi-Administradores**  
 *Como administrador principal, quero que o sistema suporte pelo menos 6 líderes com permissões de gestão.*
@@ -147,7 +222,7 @@ Focado na segurança e acessos administrativos.
       <td><a href="../historia_usuario_novo/#h06">H06</a></td>
     </tr>
     <tr>
-      <td>Como líder, quero cadastrar a programação detalhada (horário, atividade e descrição) de cada evento.</td>
+      <td>Como administrador, quero cadastrar a programação detalhada (horário, atividade e descrição) de cada evento.</td>
       <td><a href="../historia_usuario_novo/#h07">H07</a></td>
     </tr>
     <tr>
@@ -165,7 +240,7 @@ Focado na segurança e acessos administrativos.
       <td><a href="../historia_usuario_novo/#h10">H10</a></td>
     </tr>
     <tr>
-      <td>Como responsável pelo evento, quero receber um e-mail automático sempre que houver uma nova candidatura para agilizar a validação.</td>
+      <td>Como administrador do evento, quero receber um e-mail automático sempre que houver uma nova candidatura para agilizar a validação.</td>
       <td><a href="../historia_usuario_novo/#h11">H11</a></td>
     </tr>
     <tr>
@@ -178,13 +253,13 @@ Focado na segurança e acessos administrativos.
       <td><a href="../historia_usuario_novo/#h13">H13</a></td>
     </tr>
     <tr>
-      <td>Como gestor, quero visualizar quantos voluntários estão inscritos e aprovados por evento para garantir que as equipes estejam completas.</td>
+      <td>Como administrador, quero visualizar quantos voluntários estão inscritos e aprovados por evento para garantir que as equipes estejam completas.</td>
       <td><a href="../historia_usuario_novo/#h14">H14</a></td>
     </tr>
     <tr>
       <td rowspan="3">Governança e Operações</td>
       <td rowspan="2"><a href="#tema4">E06</a> - Autenticação e Perfis</td>
-      <td>Como líder, quero realizar login no sistema para acessar as ferramentas de gestão.</td>
+      <td>Como administrador, quero realizar login no sistema para acessar as ferramentas de gestão.</td>
       <td><a href="../historia_usuario_novo/#h15">H15</a></td>
     </tr>
     <tr>
@@ -206,3 +281,6 @@ Focado na segurança e acessos administrativos.
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
 | `0.1`    | 29/03/2026 | Base Backlog |[Enzo Emir](https://github.com/EnzoEmir), [Gabriel Monteiro](https://github.com/GabrielSMonteiro), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4K), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir), [Gabriel Monteiro](https://github.com/GabrielSMonteiro), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4K), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) |
+| Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
+|--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
+| `0.2`    | 29/03/2026 | Adição da introdução e metodologia |[Enzo Emir](https://github.com/EnzoEmir), [Gabriel Monteiro](https://github.com/GabrielSMonteiro), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4K), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir), [Gabriel Monteiro](https://github.com/GabrielSMonteiro), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4K), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) |

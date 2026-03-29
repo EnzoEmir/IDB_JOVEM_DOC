@@ -134,7 +134,7 @@
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | H07                                                                          |
 | **Tema**                 | [Gestão de Eventos](../backlog_novo/#tema2)                  |
-| **Descrição**            | Como líder, quero cadastrar a programação detalhada (horário, atividade e descrição) de cada evento. |
+| **Descrição**            | Como administrador, quero cadastrar a programação detalhada (horário, atividade e descrição) de cada evento. |
 | **Critérios de Aceitação** | - Interface para adicionar múltiplas atividades com horários <br> - Validação de conflito de horários <br> - Possibilidade de reordenar atividades <br> - Visualização de tabela da programação |
 | **Prioridade**           | -                                                                          |
 | **Status**               | Não iniciado                                                                 |
@@ -202,7 +202,7 @@
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | H11                                                                          |
 | **Tema**                 | [Gestão de Voluntários](../backlog_novo/#tema3)                              |
-| **Descrição**            | Como responsável pelo evento, quero receber um e-mail automático sempre que houver uma nova candidatura para agilizar a validação. |
+| **Descrição**            | Como administrador do evento, quero receber um e-mail automático sempre que houver uma nova candidatura para agilizar a validação. |
 | **Critérios de Aceitação** | - E-mail automático ao receber candidatura <br> - Resumo dos dados do candidato no e-mail <br> - Configurar quem recebe e-mail por evento |
 | **Prioridade**           | -                                                                          |
 | **Status**               | Não iniciado                                                                 |
@@ -253,7 +253,7 @@
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | H14                                                                          |
 | **Tema**                 | [Gestão de Voluntários](../backlog_novo/#tema3)                              |
-| **Descrição**            | Como gestor, quero visualizar quantos voluntários estão inscritos e aprovados por evento para garantir que as equipes estejam completas. |
+| **Descrição**            | Como administrador, quero visualizar quantos voluntários estão inscritos e aprovados por evento para garantir que as equipes estejam completas. |
 | **Critérios de Aceitação** | - Dashboard com contadores de inscritos vs aprovados <br> - Visualização por evento <br> - Export dos dados dos voluntários e funções |
 | **Prioridade**           | -                                                                         |
 | **Status**               | Não iniciado                                                                 |
@@ -270,7 +270,7 @@
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | H15                                                                          |
 | **Tema**                 | [Governança e Operações](../backlog_novo/#tema4)                             |
-| **Descrição**            | Como líder, quero realizar login no sistema para acessar as ferramentas de gestão. |
+| **Descrição**            | Como administrador, quero realizar login no sistema para acessar as ferramentas de gestão. |
 | **Critérios de Aceitação** | - Página de login segura com validação de credenciais <br> - Autenticação com dois fatores <br> - Session management com timeout <br> |
 | **Prioridade**           | -                                                                          |
 | **Status**               | Não iniciado                                                                 |
