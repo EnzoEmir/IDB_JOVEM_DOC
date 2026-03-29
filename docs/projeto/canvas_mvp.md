@@ -31,7 +31,9 @@ Ao final da dinâmica, foi possível consolidar uma versão única do Canvas MVP
 ---
 
 ## Canvas MVP do IDB Jovem:
-<img src="../imagens/CanvaMVP_IDBJovem.png" alt="Canvas MVP do IDB Jovem" style="border: 1px solid rgba(0, 0, 0, 0.1); width: 900px; height: 550px;">
+<img src="https://raw.githubusercontent.com/EnzoEmir/IDB_JOVEM_DOC/main/docs/imagens/CanvaMVP_IDBJovem.png" 
+     alt="Canvas MVP do IDB Jovem" 
+     style="border: 1px solid rgba(0, 0, 0, 0.1); width: 900px; height: 500px;">
 
 ### Participantes
 
