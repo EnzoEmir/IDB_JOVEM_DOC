@@ -42,7 +42,8 @@ extra_css:
 nav:
   - Inicio: index.md
   - Projeto:
-      - Backlog: projeto/backlog.md
+      - História: projeto/historia_usuario_novo.md
+      - Backlog: projeto/backlog_novo.md
 
 markdown_extensions:
   - admonition

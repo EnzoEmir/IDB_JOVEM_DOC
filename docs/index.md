@@ -14,9 +14,9 @@ Bem-vindo à documentação do projeto desenvolvido para a Igreja de Deus - IDB 
 
 | Nome | Contato |
 | --- | --- |
-| Enzo Emir | [@EnzoEmir](https://github.com/EnzoEmir) |
-| Gabriel Santos | [@GabrielSMonteiro](https://github.com/GabrielSMonteiro) |
-| Leticia Arisa | [@Leticia-Arisa-K-Higa](https://github.com/Leticia-Arisa-K-Higa) |
-| Marcelo Makoto | [@MM4K](https://github.com/MM4K) |
-| Maria Eduarda | [@dudaa28](https://github.com/dudaa28) |
-| Victor Pontual | [@VictorPontual](https://github.com/VictorPontual) |
+| Enzo Emir | [EnzoEmir](https://github.com/EnzoEmir) |
+| Gabriel Santos | [GabrielSMonteiro](https://github.com/GabrielSMonteiro) |
+| Leticia Arisa | [Leticia-Arisa-K-Higa](https://github.com/Leticia-Arisa-K-Higa) |
+| Marcelo Makoto | [MM4K](https://github.com/MM4K) |
+| Maria Eduarda | [dudaa28](https://github.com/dudaa28) |
+| Victor Pontual | [VictorPontual](https://github.com/VictorPontual) |
