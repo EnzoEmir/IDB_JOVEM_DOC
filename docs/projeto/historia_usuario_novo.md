@@ -1,3 +1,82 @@
+# Introdução
+
+O presente documento tem como objetivo apresentar as histórias de usuário elaboradas para o desenvolvimento do projeto da disciplina **TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES - (FGA0242)** voltado à criação de uma plataforma web para a **Igreja de Deus (IDB Jovem e Teen)**. O projeto consiste em uma landing page estratégica destinada à divulgação de eventos, apresentação da identidade do grupo, localização e centralização de informações essenciais para a comunidade, visando otimizar a comunicação e o engajamento dos membros e visitantes <a href="#REF1" id="cit-1">[1]</a>.
+
+As histórias de usuário são uma técnica fundamental na Engenharia de Requisitos Ágil, utilizadas para representar funcionalidades, resultados ou características desejadas no software. Elas são criadas a partir da escuta ativa das necessidades dos usuários e servem como guia para o desenvolvimento.
+
+Cada história de usuário é construída de forma a responder três perguntas essenciais:  
+
+- **Quem?** — Quem é o usuário ou persona envolvida na interação.  
+
+- **O que?** — Qual é a ação, necessidade ou funcionalidade desejada.  
+
+- **Por que?** — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.
+
+### Construção das Histórias de Usuário
+
+As histórias de usuário foram escritas seguindo o modelo clássico:
+
+> **Como [usuário], quero [ação], para [atingir um objetivo].**
+
+Essa estrutura ajuda a garantir que cada história represente uma necessidade real do usuário, deixando claro o objetivo e o valor gerado pela funcionalidade.
+
+### Definição dos Critérios de Aceitação
+
+Para cada história de usuário, foram estabelecidos critérios de aceitação claros e objetivos. Esses critérios funcionam como referência para confirmar se a funcionalidade entregue atende aos requisitos previamente acordados e, sobretudo, às expectativas da cliente.
+
+### Participantes
+
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Nome</th>
+      <th align="center">Data</th>
+      <th align="center">Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td align="center">29/03/2026</td>
+      <td align="center">14:00</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GabrielSMonteiro">Gabriel Monteiro</a></td>
+      <td align="center">29/03/2026</td>
+      <td align="center">14:00</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td align="center">29/03/2026</td>
+      <td align="center">14:00</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td align="center">29/03/2026</td>
+      <td align="center">14:00</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td align="center">29/03/2026</td>
+      <td align="center">14:00</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td align="center">29/03/2026</td>
+      <td align="center">14:00</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p>
+
 ## Sumário
 
 - [H01 – Acesso à Landing Page](#h01)
@@ -20,9 +99,55 @@
 
 ---
 
-## Histórias de Usuário
+##  Histórias de Usuário
 
-<a name="h01"></a>
+A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das histórias de usuário do projeto. Ela padroniza os principais elementos necessários, como a descrição da necessidade, critérios de aceitação, prioridade, status de validação, entre outros. O objetivo é garantir consistência, rastreabilidade e clareza em todas as histórias documentadas.
+
+<p align="center">Tabela 2: <i>Modelo para História de Usuário.</i></p>
+<a name="tabela-modelo"></a>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>USx</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td>Código do requisito</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Título</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- [Critério 1] <br> - [Critério 2]</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta, Média, Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Se a história foi validada ou não pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p>
+
+
 
 ### História 01 — Acesso à Landing Page
 
@@ -309,8 +434,14 @@
 | **Prioridade**           | -                                                                         |
 | **Status**               | Não iniciado                                                                 |
 
+##  Referências Bibliográficas
+
+> <a id="REF1" href="#cit-1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+
+
 ##  Histórico de Versão
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
 | `0.1`    | 29/03/2026 | Base História de Usuário | [Enzo Emir](https://github.com/EnzoEmir), [Gabriel Monteiro](https://github.com/GabrielSMonteiro), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4K), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir), [Gabriel Monteiro](https://github.com/GabrielSMonteiro), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4K), [Maria Eduarda](https://github.com/dudaa28), [Victor Pontual](https://github.com/VictorPontual) |
+| `0.2`    | 29/03/2026 | Documentação adicional | [Maria Eduarda](https://github.com/dudaa28) |     -     |
