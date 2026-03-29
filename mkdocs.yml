@@ -44,6 +44,7 @@ nav:
   - Projeto:
       - História: projeto/historia_usuario_novo.md
       - Backlog: projeto/backlog_novo.md
+      - Canvas MVP: projeto/canvas_mvp.md
 
 markdown_extensions:
   - admonition
