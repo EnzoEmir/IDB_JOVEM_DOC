@@ -1,6 +1,6 @@
 # Introdução
 
-O presente documento tem como objetivo apresentar as histórias de usuário elaboradas para o desenvolvimento do projeto da disciplina **TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES - (FGA0242)** voltado à criação de uma plataforma web para a **Igreja de Deus (IDB Jovem e Teen)**. O projeto consiste em uma landing page estratégica destinada à divulgação de eventos, apresentação da identidade do grupo, localização e centralização de informações essenciais para a comunidade, visando otimizar a comunicação e o engajamento dos membros e visitantes <a id="REF1">1</a>.
+O presente documento tem como objetivo apresentar as histórias de usuário elaboradas para o desenvolvimento do projeto da disciplina **TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES - (FGA0242)** voltado à criação de uma plataforma web para a **Igreja de Deus (IDB Jovem e Teen)**. O projeto consiste em uma landing page estratégica destinada à divulgação de eventos, apresentação da identidade do grupo, localização e centralização de informações essenciais para a comunidade, visando otimizar a comunicação e o engajamento dos membros e visitantes <a href="#REF1" id="cit-1">[1]</a>.
 
 As histórias de usuário são uma técnica fundamental na Engenharia de Requisitos Ágil, utilizadas para representar funcionalidades, resultados ou características desejadas no software. Elas são criadas a partir da escuta ativa das necessidades dos usuários e servem como guia para o desenvolvimento.
 
@@ -436,9 +436,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ##  Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
-
-> <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
+> <a id="REF1" href="#cit-1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 
 ##  Histórico de Versão
