@@ -23,9 +23,7 @@ Além disso, oferece suporte a líderes e administradores por meio de funcionali
 
 
 
-## • Membros da Equipe 
-
-<h2 id="membros-equipe">Membros da Equipe</h2>
+<h2 id="membros-equipe"> • Membros da Equipe</h2>
 
 <table>
   <tr>
