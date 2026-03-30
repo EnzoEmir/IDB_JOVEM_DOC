@@ -1,21 +1,21 @@
-# Apresentação do Projetos
+# Apresentação do Projeto
 
 ## • Introdução
 
-Bem-vindo à documentação oficial do projeto **IDB Jovem & Teen**
+Bem-vindo à documentação oficial do projeto **IDB Jovem & Teen**.
 
-Este repositório é dedicado ao desenvolvimento das atividades referentes à turma 02 da disciplina "*Técnicas de Programação em Plataformas Emergentes*", vigente na [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 1º período de 2026. Nele, estará mantido todo o processo de desenvolvimento na disciplina pelo [***Grupo 05***](#-membros-da-equipe-), verifca-se todo o processo de documentação do desenvolvimento do projeto.
+Este repositório é dedicado ao desenvolvimento das atividades referentes à turma 02 da disciplina **Técnicas de Programação em Plataformas Emergentes**, vigente na [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 1º período de 2026. Nele, estará mantido todo o processo de desenvolvimento na disciplina pelo [***Grupo 05***](#membros-equipe), verifca-se todo o processo de documentação do desenvolvimento do projeto.
 
-![logo](/docs/images/logo.png)
+![logo](imagens/logo.png)
 
 <p align="center"><sub>Fonte: Grupo 05, 2026.</sub></p>
 
 
 ## • Visão Geral
 
-Voltado à criação de uma plataforma web para a **Igreja de Deus (IDB Jovem e Teen)**, o projeto consiste em uma "*landing page estratégica*" para divulgação de eventos, apresentação da identidade do grupo, localização e centralização de informações essenciais da comunidade.
+Voltado à criação de uma plataforma web para a **Igreja de Deus (IDB Jovem e Teen)**, o projeto consiste em uma *landing page estratégica* para divulgação de eventos, apresentação da identidade do grupo, localização e centralização de informações essenciais da comunidade.
 
-Seu principal objetivo é "*reduzir a dispersão de informações*", reunindo tudo em um único ambiente acessível, onde membros e visitantes possam encontrar rapidamente o que precisam.
+Seu principal objetivo é *reduzir a dispersão de informações*, reunindo tudo em um único ambiente acessível, onde membros e visitantes possam encontrar rapidamente o que precisam.
 
 A plataforma permite que usuários **acompanhem eventos**, **participem como voluntários**, **visualizem novidades** e **acessem produtos disponíveis**, promovendo uma experiência mais integrada.
 
@@ -24,6 +24,8 @@ Além disso, oferece suporte a líderes e administradores por meio de funcionali
 
 
 ## • Membros da Equipe 
+
+<h2 id="membros-equipe">Membros da Equipe</h2>
 
 <table>
   <tr>
