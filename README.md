@@ -133,7 +133,7 @@ O MVP do projeto contempla:
 ## 👥 Integrantes do Projeto
 ---
 
-### 💻 Equipe de Software
+### 💻 Equipe
 
 | Nome                                                     | GitHub                                                              |
 | -------------------------------------------------------- | ------------------------------------------------------------------- |
