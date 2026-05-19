@@ -2,11 +2,11 @@
 
 ## Introdução
 
-O presente documento tem como objetivo apresentar o protótipo de alta fidelidade desenvolvido para o sistema **IDB Jovem & Teens** por todos do Grupo 05, uma plataforma voltada ao cadastro de eventos nacionais para a inscrição de voluntariados e o acompanhamento pelas lideranças nacionanis da igreja. O projeto busca aliar **inovação tecnológica**, **acessibilidade** e **sustentabilidade visual** por meio de uma interface intuitiva e responsiva.
+O presente documento tem como objetivo apresentar o protótipo de alta fidelidade desenvolvido para o sistema **IDB Jovem & Teens** por todos do Grupo 05, uma plataforma voltada ao cadastro de eventos nacionais para a inscrição de voluntariados e o acompanhamento pelas lideranças nacionanis da igreja. O projeto busca aliar **inovação tecnológica**, **acessibilidade** e **juventude** por meio de uma interface intuitiva e responsiva.
 
 A construção do protótipo teve como foco principal a **experiência do usuário (UX)**, com decisões de design baseadas em critérios de legibilidade, hierarquia visual e consistência da identidade da marca. Utilizando uma paleta de cores estrategicamente definida e uma tipografia cuidadosamente selecionada, o protótipo reflete os valores centrais do projeto e garante coesão em todos os pontos de contato com o usuário.
 
-As fontes utilizadas foram **Archivo Black** para títulos e elementos de destaque, oferecendo impacto visual e força de identidade, e **Inter** para textos gerais, garantindo alta legibilidade em ambientes digitais. A escolha das cores — tons de laranja, marrom e branco — reforça os pilares da marca: inocação, tecnologia e juventude.
+As fontes utilizadas foram **Covered By Your Grace** para títulos e elementos de destaque, oferecendo impacto visual e força de identidade, e **Inter** para textos gerais, garantindo alta legibilidade em ambientes digitais. A escolha das cores — tons de laranja, marrom e branco — reforça os pilares da marca: inocação, tecnologia e juventude.
 
 ## Metodologia
 
