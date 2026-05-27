@@ -39,9 +39,10 @@ A extensão **`pg_trgm`** está habilitada para suportar busca textual baseada e
   "theme": "base",
   "themeVariables": {
     "primaryColor": "#E3F2FD",
-    "primaryTextColor": "#0D1B2A",
+    "primaryTextColor": "#000000",
+    "textColor": "#000000",
     "primaryBorderColor": "#1E88E5",
-    "lineColor": "#1565C0",
+    "lineColor": "#0D47A1",
     "secondaryColor": "#FFF3E0",
     "tertiaryColor": "#E8F5E9",
     "background": "#FFFFFF",
