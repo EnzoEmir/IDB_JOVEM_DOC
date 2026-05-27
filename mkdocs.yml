@@ -46,6 +46,7 @@ nav:
       - Backlog: projeto/backlog_novo.md
       - Canvas MVP: projeto/canvas_mvp.md
       - Protótipo de alta fidelidade: projeto/prototipo_alta.md
+      - Modelo Físico: projeto/modelo_fisico.md
 
 markdown_extensions:
   - admonition
